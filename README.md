@@ -1,4 +1,4 @@
-Simple Calculator Project - README
+Simple Calculator Project.
 
 This is the README file for the simple calculator project.
 It provides an overview of the project, and some additional information.
@@ -21,9 +21,12 @@ Includes a clear button to reset the display and a delete button to correct erro
 Includes decimal point support also.
 Future Enhancements:Implement support for more complex calculations (e.g., order of operations, parentheses ).
 Enhances user experience with features like error handling (division by zero), history of calculations.
+
 Dependencies: None (pure HTML, CSS, and JavaScript)
 
 
 Author: [AKLADE BISMARK MARCO]
+
 Contact:+233240973574
+
 [aklademarco2@gmail.com]
