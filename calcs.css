@@ -1,0 +1,240 @@
+.button-container1{
+  display: flex;
+  gap: 20px;
+}
+.button-container2{
+  display: flex;
+  gap: 20px;
+}
+.button-container3{
+  display: flex;
+  gap: 20px;
+}
+.button-container4{
+  display: flex;
+  gap: 20px;
+}
+.button-container5{
+  display: flex;
+  gap: 20px;
+}
+
+.ac-but{
+  height: 70px;
+  width:70px;
+  font-size: 40px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #c0c0c0;
+}
+
+
+.negate-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #c0c0c0;
+
+}
+
+.modulus-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #c0c0c0;
+
+}
+
+
+.division-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #ca851e;
+}
+
+
+.seven-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.eight-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.nine-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.times-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #ca851e;
+
+}
+
+
+.four-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.five-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.six-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.minus-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #ca851e;
+
+}
+
+
+.one-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+
+}
+
+
+.two-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.three-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: rgb(48, 43, 43);
+
+}
+
+
+.plus-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #ca851e;
+
+}
+
+
+
+.zero-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border-radius: 50%;
+  border: 4px;
+  background-color: rgb(48, 43, 43);
+
+
+
+}
+
+
+.point-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border-radius: 50%;
+  border: 4px;
+  background-color: rgb(48, 43, 43);
+
+
+}
+
+.delete-but{
+  height: 70px;
+  width:70px;
+  font-size: 30px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #6ea332;
+
+}
+
+
+.equal-but{
+  height: 70px;
+  width:70px;
+  font-size: 50px;
+  border: 4px;
+  border-radius: 50%;
+  background-color: #ca851e;
+
+}
